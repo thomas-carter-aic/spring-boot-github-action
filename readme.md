@@ -1,12 +1,12 @@
-#### Spring Boot Microservice With GitHub Action 
+### Spring Boot Microservices With GitHub Actions
+https://johndobie.com/blog/spring-boot-microservice-with-github-actions/
 
-Building a Spring Boot Microservice on GitHub is as easy as doing it locally.
+Building a Spring Boot Microservice with GitHub Actions is as easy as doing it locally.
 
-See how to do it using less than a dozen commands.
+Create a Microservice and build it on Github in under 5 minutes.
 
-#### See https://johndobie.com for more details
+Click on the image below to read the full article.
 
-A script that will create a repo,  download a spring boot starter app and create a github action.
-```
-./script/create-application.sh spring-boot-action
-```
+[![Screenshot](./images/Screenshot%202025-02-20%20094450.png)](https://johndobie.com/blog/spring-boot-microservice-with-github-actions/)
+
+
